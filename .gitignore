@@ -1,0 +1,8 @@
+# dependencies
+/node_modules
+
+# local env files
+/backend/config/config.env
+temp_auto_push.bat
+temp_interactive_push.bat
+branch_structure.json
